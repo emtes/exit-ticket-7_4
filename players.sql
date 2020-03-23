@@ -58,10 +58,10 @@ INSERT INTO players VALUES (
   7,
   'Jamison', 'Zion', NULL,
   12, 285, 80, '2000-10-25'
-)
+);
 
 INSERT INTO players VALUES (
   8,
   'Johnson', 'Craig', 'P',
   17, 173, 72, '1999-11-25'
-)
+);
